@@ -5,5 +5,5 @@ development:
   database: rubyhotels
   pool: 5
   username: root
-  password: 
+  password: 111111 
   socket: /var/run/mysqld/mysqld.sock
